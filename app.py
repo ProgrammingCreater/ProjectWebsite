@@ -112,9 +112,9 @@ st.markdown(
         --detail-title-size: 2.5rem;        /* project title on the detail page */
         --tag-size: 1.15rem;              /* small tag pills, e.g. "Arduino" */
         --status-badge-size: 0.75rem;     /* "Completed" / "In Progress" pill */
-        --description-text-size: 1.5rem;    /* the full project description paragraph */
-        --error-heading-size: 1.15rem;    /* "Issue N: ..." expander header text */
-        --error-body-size: 1.25rem;        /* solution text inside each expander */
+        --description-text-size: 1.1rem;    /* the full project description paragraph */
+        --error-heading-size: 1.1rem;    /* "Issue N: ..." expander header text */
+        --error-body-size: 1.1rem;        /* solution text inside each expander */
         --error-arrow-size: 1.6rem;        /* the expand/collapse arrow icon to the left of each issue */
     }
 
