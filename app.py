@@ -55,7 +55,7 @@ PROJECTS = [
             # If a photo still looks sideways after this fix, turn its entry
             # into a dict and add "rotate" — e.g.:
             # {"path": "RC_Car/Isometric.jpeg", "rotate": 90},
-            {"path": "RC_Car/Isometric.jpeg", "rotate":270},
+            {"path": "RC_Car/Isometric.png", "rotate":270},
             #"RC_Car/Front.jpeg",
             "RC_Car/Top.jpeg",
             "RC_Car/Schematic.png",
